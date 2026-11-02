@@ -1,0 +1,17 @@
+[project]
+name = "updater"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Radu Gribincea", email = "radu.gribincea2@endava.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+updater = "updater:main"
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"

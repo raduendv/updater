@@ -1,0 +1,25 @@
+issues:
+  gaming_platform:
+    id: 706
+    repo: amazon-dynamodb/ddb-endava
+    pull_from:
+      - repo: andreas-grafenberger/aws-sdk-java-v2-dynamodb-sample-apps
+        ids: [16, 135, 136, 137, 138, 161, 162, 142, 143, 144, 145, 139, 140, 146, 147, 141, 148]
+  insurance:
+    id: 707
+    repo: amazon-dynamodb/ddb-endava
+    pull_from:
+      - repo: andreas-grafenberger/aws-sdk-java-v2-dynamodb-sample-apps
+        ids: [89, 149, 150, 151, 153, 163, 154, 152, 155, 164, 157, 165, 166, 158, 159, 156, 160]
+  social_media:
+    id: 708
+    repo: amazon-dynamodb/ddb-endava
+    pull_from:
+      - repo: andreas-grafenberger/aws-sdk-java-v2-dynamodb-sample-apps
+        ids: [21, 167, 168, 169, 170, 171, 173, 174, 179, 175, 172, 176, 177, 178, 180]
+  multi_tenant:
+    id: 709
+    repo: amazon-dynamodb/ddb-endava
+    pull_from:
+      - repo: andreas-grafenberger/aws-sdk-java-v2-dynamodb-sample-apps
+        ids: [93, 181, 182, 183, 184, 187, 185, 188, 189, 190, 191, 192, 193, 194, 195, 197, 196, 186, 198]
